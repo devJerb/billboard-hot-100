@@ -1,4 +1,4 @@
-# billboard-hot-100
+# Playlist Maker from Billboard Hot 100
 Usage of web scraping on Billboard Hot 100 and the Spotify API to create a Spotify playlist.
 
 This project shows how to use web scraping and the Spotify API to create a playlist of the current Billboard Hot 100 chart. You can modify the code to scrape other charts or websites and create playlists based on your preferences.
